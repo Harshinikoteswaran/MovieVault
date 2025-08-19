@@ -1,12 +1,30 @@
-#🚀 Excited to share my MovieVault Project built with React! at Error Makes Clever
-#This project was a hands-on journey where I applied multiple React concepts while making a fun and functional app.
-#🔑 Key Features & Concepts I worked on:
-#⚛️ React Hooks: Leveraged useState, useEffect, and useContext for state and context management.
-#🌐 API Fetching: Integrated with the TMDB API to display real-time movie data.
-#🔎 Search Functionality: Implemented a dynamic search to quickly find movies by title.
-#📄 Pagination: Designed pagination for smooth navigation across large datasets.
-#❤️ Wishlist Management: Added the option to add/remove movies from a personalized watchlist.
-#📱 Responsive Design: Optimized the UI to work seamlessly across devices.
-#This project strengthened my understanding of building scalable, interactive apps with React and gave me confidence in working with APIs and state management.
-#I’m looking forward to exploring advanced React concepts and building more impactful projects!
-#link: https://lnkd.in/gQiTF4hX
+# 🎬 MovieVault  
+
+A React-based **Movie Explorer App** built at **Error Makes Clever** 🚀.  
+MovieVault integrates with the **TMDB API** to provide real-time movie data, along with features like search, pagination, and wishlist management — all wrapped in a responsive UI.  
+
+---
+
+## 🚀 Overview  
+
+This project was a hands-on journey where I applied multiple React concepts while making a fun and functional app.  
+It helped me strengthen my understanding of building scalable, interactive apps with React and gave me confidence in working with APIs and state management.  
+
+---
+
+## ✨ Features  
+
+- ⚛️ **React Hooks** – Used `useState`, `useEffect`, and `useContext` for efficient state & context management  
+- 🌐 **API Fetching** – Integrated with **TMDB API** to display real-time movie data  
+- 🔎 **Search Functionality** – Dynamic search to quickly find movies by title  
+- 📄 **Pagination** – Smooth navigation across large datasets with pagination  
+- ❤️ **Wishlist Management** – Add/remove movies from a personalized watchlist  
+- 📱 **Responsive Design** – Optimized UI for seamless experience across devices  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** React, JavaScript, TailwindCSS  
+- **API:** TMDB API  
+- **State Management:** React Hooks (`useState`, `useEffect`, `useContext`
